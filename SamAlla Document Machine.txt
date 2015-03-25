@@ -1,0 +1,7 @@
+Assignment: Document Machine
+Website: http://phoenix.sheridanc.on.ca/~ccit1783/
+Contributors:  Sam Dumcum / Alaa Harb
+
+/*Child theme currently acting crazy
+Hoping to get some assistance in class
+Otherwise we rocked plugins and some css changes */
